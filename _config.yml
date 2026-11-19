@@ -33,10 +33,10 @@ github:
 #twitter:
 #  username: twitter_username
 
-#social:
+social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  #name: your_full_name
+  name: Luis Suastegui # change to your full name
   #email: example@domain.com # change to your email address
   #fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   #links:

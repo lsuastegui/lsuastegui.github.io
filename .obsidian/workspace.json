@@ -185,9 +185,26 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b488da072f0621d",
-  "lastOpenFiles": []
+  "active": "735196e2d075a1d1",
+  "lastOpenFiles": [
+    "assets/img/favicons/favicon-16x16.png",
+    "assets/img/favicons/favicon.svg",
+    "assets/img/favicons/favicon.ico",
+    "assets/img/favicons/apple-touch-icon.png",
+    "assets/img/favicons/android-chrome-512x512.png",
+    "assets/img/favicons/android-chrome-192x192.png",
+    "assets/img/favicons/web-app-manifest-512x512.png",
+    "assets/img/favicons/web-app-manifest-192x192.png",
+    "assets/img/favicons/mstile-150x150.png",
+    "assets/img/favicons/favicon-96x96.png",
+    "assets/img/favicons/favicon-32x32.png",
+    "assets/img/favicons",
+    "assets/img/New folder",
+    "assets/img",
+    "assets/New folder"
+  ]
 }
