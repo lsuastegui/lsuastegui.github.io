@@ -149,9 +149,7 @@ This immediately confirmed:
 The next step was checking whether updates were still available:
 
 ```text
-
 curl https://api.telegram.org/bot<TOKEN>/getUpdates
-
 ```
 
 ![Telegram Bot API getUpdates response with pending operator messages](getupdates.png){: width="700" }
@@ -197,12 +195,8 @@ The retrieved updates exposed a Telegram account interacting manually with the b
 Observed messages included:
 
 ```text
-..
-
 2
-
 22
-
 722782
 ```
 
@@ -592,7 +586,7 @@ Rather than modifying malware binaries directly, the operator abused the install
 | MSI Payload | `http[:]//96.126.176.23/screen/panel1.msi` |
 | ScreenConnect C2 | `168.222.97.20:8041` |
 
-  ### Related Infrastructure
+### Related Infrastructure
 
 | IP | Notes |
 |---|---|
@@ -622,4 +616,4 @@ Rather than modifying malware binaries directly, the operator abused the install
 
 | Artifact | Value |
 |---|---|
-| RSA Modulus SHA256 | `eb09aa3594fbfd90f0afae781
+| RSA Modulus SHA256 | `eb09aa3594fbfd90f0afae781` |
