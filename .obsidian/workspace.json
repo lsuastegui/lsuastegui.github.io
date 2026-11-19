@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-04-15-zoomlure-datto-rmm-backdoor.md",
+                "file": "_posts/2026-04-30-asyncrat-config-extractor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-15-zoomlure-datto-rmm-backdoor"
+              "title": "2026-04-30-asyncrat-config-extractor"
             }
           }
         ]
@@ -191,10 +191,10 @@
   },
   "active": "ea1a9ac46d1b33ca",
   "lastOpenFiles": [
+    "_posts/2026-04-15-zoomlure-datto-rmm-backdoor.md",
     "_posts/2026-04-02-xworm-config-extractor-yara.md",
     "_posts/2026-04-30-asyncrat-config-extractor.md",
     "_posts/2026-05-13-ScreenConnect-rmm-abuse.md",
-    "_posts/2026-04-15-zoomlure-datto-rmm-backdoor.md",
     "assets/img/posts/2026-04-30-asyncrat-config-extractor/async_diamond.png",
     "assets/img/posts/2026-04-30-asyncrat-config-extractor",
     "assets/img/posts/New folder",
