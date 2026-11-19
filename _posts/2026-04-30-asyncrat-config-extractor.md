@@ -107,41 +107,23 @@ This indicates a preference for blending with legitimate web traffic.
 
 ```text
 teammambaperth.com
-
 www.teammambaperth.com
-
 ryuk.teammambaperth.com
-
 downadup.teammambaperth.com
-
 gh0st.teammambaperth.com
-
 azorult.teammambaperth.com
-
 javhd.co.uk
-
 www.javhd.co.uk
-
 industroyer.javhd.co.uk
-
 locky.javhd.co.uk
-
 formbook.javhd.co.uk
-
 jvrakia.com
-
 www.jvrakia.com
-
 triton.jvrakia.com
-
 client.jvrakia.com
-
 lokibot.jvrakia.com
-
 malware.jvrakia.com
-
 smalltimes.com
-
 xl365.livebytexscore.com
 ```
 
@@ -211,11 +193,8 @@ This analysis demonstrates that AsyncRAT campaigns:
   
 
 - Rely heavily on reusable infrastructure  
-
 - Use subdomain-based segmentation  
-
 - Blend into normal web traffic  
-
 - Generate noisy artifacts requiring analyst validation  
 
   
@@ -225,7 +204,5 @@ While technically unsophisticated, these campaigns remain effective due to:
   
 
 - Ease of deployment  
-
 - Availability of tooling  
-
 - Low operational cost
