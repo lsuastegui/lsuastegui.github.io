@@ -1,17 +1,14 @@
 ---
-
 title: "ZoomLure: Fake Zoom Update Deploying a Datto RMM Backdoor"
-
-description: "Analysis of a phishing campaign that uses a fake Zoom update to install a Datto RMM agent and gain persistent remote access through legitimate infrastructure"
-
+description: Analysis of a phishing campaign that uses a fake Zoom update to install a Datto RMM agent and gain persistent remote access through legitimate infrastructure
 date: 2026-04-15
-
-categories: [Threat Research]
-
-tags: [ZoomLure, Datto, RMMAbuse, Phishing]
-
+categories:
+  - Threat Research
+tags:
+  - ZoomLure
+  - RMMAbuse
+  - Phishing
 media_subpath: /assets/img/posts/2026-04-15-zoomlure-datto-rmm-backdoor
-
 ---
 
   

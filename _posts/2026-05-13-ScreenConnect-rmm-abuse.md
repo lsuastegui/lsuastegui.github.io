@@ -8,7 +8,7 @@ date: 2026-05-13
 
 categories: [Threat Research]
 
-tags: [ScreenConnect, TelegramAbuse, InfrastructurePivoting, RMMAbuse]
+tags: [TelegramAbuse, InfrastructurePivoting, RMMAbuse]
 
 media_subpath: /assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse
 
