@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_tabs/about.md",
+                "file": "_posts/2026-05-13-ScreenConnect-rmm-abuse.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "2026-05-13-ScreenConnect-rmm-abuse"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_tabs/about.md",
+                "file": "_posts/2026-05-13-ScreenConnect-rmm-abuse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_tabs/about.md",
+                "file": "_posts/2026-05-13-ScreenConnect-rmm-abuse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_tabs/about.md",
+                "file": "_posts/2026-05-13-ScreenConnect-rmm-abuse.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,22 +189,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "735196e2d075a1d1",
+  "active": "7b488da072f0621d",
   "lastOpenFiles": [
+    "assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse/telegram_temo.png",
+    "assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse/shodan_3.png",
+    "assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse/shodan_2.png",
+    "assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse/shodan_1.png",
+    "assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse/panel1.png",
+    "assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse/getupdates.png",
+    "assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse/getme.png",
+    "assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse/censys.png",
+    "assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse",
+    "assets/img/posts/New folder",
+    "assets/img/posts",
+    "assets/img/New folder",
+    "_tabs/about.md",
+    "_posts/2026-05-13-ScreenConnect-rmm-abuse.md",
     "assets/img/avatar.jpg",
     "assets/img/artworks-000206602497-b0gg50-t500x500.jpg",
     "assets/img/favicons/favicon-16x16.png",
-    "assets/img/favicons/favicon.svg",
     "assets/img/favicons/favicon.ico",
-    "assets/img/favicons/apple-touch-icon.png",
-    "assets/img/favicons/android-chrome-512x512.png",
-    "assets/img/favicons/android-chrome-192x192.png",
-    "assets/img/favicons/web-app-manifest-512x512.png",
-    "assets/img/favicons/web-app-manifest-192x192.png",
-    "assets/img/favicons/mstile-150x150.png",
-    "assets/img/favicons/favicon-96x96.png",
     "assets/img/favicons",
-    "assets/img/New folder",
     "assets/img",
     "assets/New folder"
   ]
