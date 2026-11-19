@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-05-13-ScreenConnect-rmm-abuse.md",
+                "file": "_posts/2026-04-15-zoomlure-datto-rmm-backdoor.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-13-ScreenConnect-rmm-abuse"
+              "title": "2026-04-15-zoomlure-datto-rmm-backdoor"
             }
           }
         ]
@@ -191,23 +191,24 @@
   },
   "active": "7b488da072f0621d",
   "lastOpenFiles": [
+    "_posts/2026-05-13-ScreenConnect-rmm-abuse.md",
+    "_posts/2026-04-15-zoomlure-datto-rmm-backdoor.md",
+    "assets/img/posts/2026-04-15-zoomlure-datto-rmm-backdoor/zoom_update_file.png",
+    "assets/img/posts/2026-04-15-zoomlure-datto-rmm-backdoor/grep_configfile.png",
+    "assets/img/posts/2026-04-15-zoomlure-datto-rmm-backdoor/file_zoomlure.png",
+    "assets/img/posts/2026-04-15-zoomlure-datto-rmm-backdoor/attack_flow.png",
+    "assets/img/posts/2026-04-15-zoomlure-datto-rmm-backdoor/allowlist_RMM_Datto.png",
+    "assets/img/posts/2026-04-15-zoomlure-datto-rmm-backdoor/7z_zoomlure.png",
+    "assets/img/posts/2026-04-15-zoomlure-datto-rmm-backdoor",
+    "assets/img/posts/New folder",
     "assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse/telegram_temo.png",
     "assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse/shodan_3.png",
     "assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse/shodan_2.png",
     "assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse/shodan_1.png",
-    "assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse/panel1.png",
-    "assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse/getupdates.png",
-    "assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse/getme.png",
-    "assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse/censys.png",
     "assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse",
-    "assets/img/posts/New folder",
     "assets/img/posts",
     "assets/img/New folder",
     "_tabs/about.md",
-    "_posts/2026-05-13-ScreenConnect-rmm-abuse.md",
-    "assets/img/avatar.jpg",
-    "assets/img/artworks-000206602497-b0gg50-t500x500.jpg",
-    "assets/img/favicons/favicon-16x16.png",
     "assets/img/favicons/favicon.ico",
     "assets/img/favicons",
     "assets/img",
