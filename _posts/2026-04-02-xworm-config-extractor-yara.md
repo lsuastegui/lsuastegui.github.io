@@ -355,7 +355,6 @@ If the YARA rule produces **no output**, the extractor will not work on that sam
   
 
   C2 endpoint : 8.tcp.cpolar.top:14509
-
 ```
 
   
