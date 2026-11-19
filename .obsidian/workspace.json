@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-04-15-zoomlure-datto-rmm-backdoor.md",
+                "file": "_posts/2026-05-13-ScreenConnect-rmm-abuse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-15-zoomlure-datto-rmm-backdoor"
+              "title": "2026-05-13-ScreenConnect-rmm-abuse"
             }
           }
         ]
@@ -191,8 +191,8 @@
   },
   "active": "7b488da072f0621d",
   "lastOpenFiles": [
-    "_posts/2026-05-13-ScreenConnect-rmm-abuse.md",
     "_posts/2026-04-15-zoomlure-datto-rmm-backdoor.md",
+    "_posts/2026-05-13-ScreenConnect-rmm-abuse.md",
     "assets/img/posts/2026-04-15-zoomlure-datto-rmm-backdoor/zoom_update_file.png",
     "assets/img/posts/2026-04-15-zoomlure-datto-rmm-backdoor/grep_configfile.png",
     "assets/img/posts/2026-04-15-zoomlure-datto-rmm-backdoor/file_zoomlure.png",
