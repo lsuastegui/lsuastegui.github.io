@@ -7,8 +7,6 @@ tags: [screenconnect, rmm, initial-access]
 media_subpath: /assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse
 ---
 
-# ScreenConnect Abuse Case Study: From Telegram Telemetry to Infrastructure Pivoting
-
 > A case study covering the investigation of a malicious ScreenConnect deployment, Telegram-based operator telemetry, infrastructure pivoting, and MSI forensic reconstruction.
 
 ## Key Findings
