@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1004c68ace9059f7",
+        "id": "edc51dcfd633d309",
         "type": "tabs",
         "children": [
           {
-            "id": "7b488da072f0621d",
+            "id": "ea1a9ac46d1b33ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -189,8 +189,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b488da072f0621d",
+  "active": "ea1a9ac46d1b33ca",
   "lastOpenFiles": [
+    "_posts/2026-04-02-xworm-config-extractor-yara.md",
     "assets/img/posts/2026-04-02-xworm-config-extractor-yara/xworm_aes_decrypt.png",
     "assets/img/posts/2026-04-02-xworm-config-extractor-yara/malcat_fileidentification.png",
     "assets/img/posts/2026-04-02-xworm-config-extractor-yara/malcat_classification.png",
@@ -200,13 +201,11 @@
     "assets/img/posts/2026-04-02-xworm-config-extractor-yara",
     "assets/img/posts/New folder",
     "_posts/2026-04-15-zoomlure-datto-rmm-backdoor.md",
-    "_posts/2026-04-02-xworm-config-extractor-yara.md",
     "_posts/2026-05-13-ScreenConnect-rmm-abuse.md",
     "assets/img/posts/2026-04-15-zoomlure-datto-rmm-backdoor/zoom_update_file.png",
     "assets/img/posts/2026-04-15-zoomlure-datto-rmm-backdoor/grep_configfile.png",
     "assets/img/posts/2026-04-15-zoomlure-datto-rmm-backdoor/file_zoomlure.png",
     "assets/img/posts/2026-04-15-zoomlure-datto-rmm-backdoor/attack_flow.png",
-    "assets/img/posts/2026-04-15-zoomlure-datto-rmm-backdoor/allowlist_RMM_Datto.png",
     "assets/img/posts/2026-04-15-zoomlure-datto-rmm-backdoor",
     "assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse",
     "assets/img/posts",

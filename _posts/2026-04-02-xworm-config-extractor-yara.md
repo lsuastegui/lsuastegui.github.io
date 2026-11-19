@@ -1,17 +1,16 @@
 ---
-
-title: "XWorm Config Extraction: Decrypting C2 Settings from the .NET #US Stream"
-
-description: "Static analysis of XWorm's configuration storage and AES key derivation, a manual decryption walkthrough in CyberChef, and a config extractor with a YARA compatibility rule tested on 100+ samples"
-
+title: "XWorm Config Extraction: Decrypting C2 Settings from the .NET"
+description: Static analysis of XWorm's configuration storage and AES key derivation, a manual decryption walkthrough in CyberChef, and a config extractor with a YARA compatibility rule tested on 100+ samples
 date: 2026-04-02
-
-categories: [Malware Analysis]
-
-tags: [XWorm, RAT, ConfigExtraction, YARA, DotNet]
-
+categories:
+  - Malware Analysis
+tags:
+  - XWorm
+  - RAT
+  - ConfigExtraction
+  - YARA
+  - DotNet
 media_subpath: /assets/img/posts/2026-04-02-xworm-config-extractor-yara
-
 ---
 
 ## Overview
@@ -206,9 +205,7 @@ Use this recipe:
 
   
 ```text
-MD5
-
-To Hex
+MD5 --> To Hex
 ```
 
 This gives the 16-byte MD5 value used as the basis for the AES key.
