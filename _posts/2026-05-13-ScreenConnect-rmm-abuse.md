@@ -30,7 +30,7 @@ http[:]//96.126.176.23/screen/panel1.vbs
 ```
 
 <p align="center">
-<img src="/assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse/panel1.png" width="700">
+<img src="panel1.png" width="700">
 </p>
 
 At first glance, the sample looked fairly typical:
@@ -92,7 +92,7 @@ The first step was validating whether the bot was still active:
 curl https://api.telegram.org/bot<TOKEN>/getMe
 ```
 <p align="center">
-<img src="/assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse/getme.png" width="700">
+<img src="getme.png" width="700">
 </p>
 
 The bot responded successfully:
@@ -116,7 +116,7 @@ The next step was checking whether updates were still available:
 curl https://api.telegram.org/bot<TOKEN>/getUpdates
 ```
 <p align="center">
-<img src="/assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse/getupdates.png" width="700">
+<img src="getupdates.png" width="700">
 </p>
 
 Surprisingly, the bot was operating in polling mode rather than webhook mode.
@@ -145,7 +145,7 @@ The retrieved updates exposed a Telegram account interacting manually with the b
 - Language: ar
   
 <p align="center">
-<img src="/assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse/telegram_temo.png" width="700">
+<img src="telegram_temo.png" width="700">
 </p>
 
 Observed messages included:
@@ -179,11 +179,11 @@ port:3389 "FQDN: temo"
 ```
 
 <p align="center">
-<img src="/assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse/shodan_1.png" width="700">
+<img src="shodan_1.png" width="700">
 </p>
 
 <p align="center">
-<img src="/assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse/censys.png" width="700">
+<img src="censys.png" width="700">
 </p>
 
 This quickly revealed exposed RDP infrastructure reusing the same naming convention.
@@ -214,7 +214,7 @@ Further investigation identified two systems of interest.
 96.126.176.23
 ```
 <p align="center">
-<img src="/assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse/shodan_3.png" width="700">
+<img src="shodan_3.png" width="700">
 </p>
 
 This host served the initial malicious VBS payload and exposed:
@@ -232,7 +232,7 @@ This system is assessed with high confidence as operational delivery infrastruct
 45.94.80.250
 ```
 <p align="center">
-<img src="/assets/img/posts/2026-05-13-ScreenConnect-rmm-abuse/shodan_2.png" width="700">
+<img src="shodan_2.png" width="700">
 </p>
 This host exposed:
 
