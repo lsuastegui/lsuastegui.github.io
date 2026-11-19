@@ -1,17 +1,14 @@
 ---
-
 title: "AsyncRAT Campaign Analysis: Infrastructure Patterns, IoCs, and Operational Insights"
-
-description: "Network IoCs extracted from multiple AsyncRAT samples, the domain and subdomain reuse patterns behind them, and a Diamond Model view of the activity"
-
+description: Network IoCs extracted from multiple AsyncRAT samples, the domain and subdomain reuse patterns behind them, and a Diamond Model view of the activity
 date: 2026-04-30
-
-categories: [Malware Analysis]
-
-tags: [AsyncRAT, RAT, ConfigExtraction, DiamondModel, IOCs]
-
+categories:
+  - Malware Analysis
+tags:
+  - AsyncRAT
+  - RAT
+  - ConfigExtraction
 media_subpath: /assets/img/posts/2026-04-30-asyncrat-config-extractor
-
 ---
 
   

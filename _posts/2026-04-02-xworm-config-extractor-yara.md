@@ -8,11 +8,9 @@ tags:
   - XWorm
   - RAT
   - ConfigExtraction
-  - YARA
-  - DotNet
 media_subpath: /assets/img/posts/2026-04-02-xworm-config-extractor-yara
 ---
-
+[[]]
 ## Overview
  
 **XWorm** is a widely used Remote Access Trojan (RAT) that has been actively observed in campaigns since at least 2022. It is commonly distributed through phishing emails and multi-stage loaders, and is frequently sold or shared in underground forums, making it accessible to a broad range of threat actors.
